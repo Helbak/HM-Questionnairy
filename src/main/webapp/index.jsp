@@ -27,7 +27,12 @@
 <br/><input type="radio" name="question4" value="no" /> No
     <br/>
     <br/>
-    <input type="submit"/>
+    <strong>enter your name</strong>
+    <input type="text" name="question5" />
+    <br/>
+    <br/>
+
+    <input type="submit" />
 </form>
 </body>
 </html>
